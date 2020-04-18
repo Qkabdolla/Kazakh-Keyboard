@@ -1,0 +1,6 @@
+framework module Pods_KazakhKeyboardKitTest {
+  umbrella header "Pods-KazakhKeyboardKitTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
